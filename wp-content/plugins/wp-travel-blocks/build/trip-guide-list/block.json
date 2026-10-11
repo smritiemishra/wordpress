@@ -1,0 +1,38 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "wp-travel-blocks/trip-guide-list",
+  "version": "0.1.0",
+  "title": "Trip Guide List",
+  "category": "wp-travel-single-trip-blocks",
+  "icon": "grid-view",
+  "description": "Display guides on trip page.",
+  "attributes": {
+    "layoutType": {
+      "type": "string",
+      "default": "default-layout"
+    },
+    "patternSlug": {
+      "type": "string",
+      "default": ""
+    }
+  },
+  "supports": {
+    "html": false,
+    "color": {
+      "background": false,
+      "color": true
+    },
+    "align": [
+      "wide",
+      "full"
+    ],
+    "typography": {
+      "fontSize": true
+    }
+  },
+  "textdomain": "trip-guide-list",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}

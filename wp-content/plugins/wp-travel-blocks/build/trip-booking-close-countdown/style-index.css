@@ -1,0 +1,59 @@
+/*!********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/trip-booking-close-countdown/style.scss ***!
+  \********************************************************************************************************************************************************************************************************************************************************************/
+.wptravel-booking-countdown .booking-countdown {
+  display: flex;
+  gap: 10px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+}
+
+.wptravel-booking-countdown .booking-countdown[data-date=""] {
+  display: none;
+}
+
+.wptravel-booking-countdown .time-unit {
+  background: rgba(0, 0, 0, 0.25);
+  -webkit-backdrop-filter: blur(10px);
+          backdrop-filter: blur(10px);
+  padding: 10px;
+  border-radius: 15px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  min-width: 100px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.wptravel-booking-countdown .time-number {
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  margin-right: 5px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.wptravel-booking-countdown .time-label {
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.8);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-top: 0.5rem;
+}
+
+@media (max-width: 768px) {
+  .wptravel-booking-countdown .booking-countdown {
+    gap: 1rem;
+  }
+  .wptravel-booking-countdown .time-unit {
+    padding: 1rem;
+    min-width: 80px;
+  }
+}
+@media (max-width: 480px) {
+  .wptravel-booking-countdown .time-unit {
+    padding: 0.8rem;
+    min-width: 70px;
+  }
+}
+
+/*# sourceMappingURL=style-index.css.map*/

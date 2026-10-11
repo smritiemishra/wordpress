@@ -1,0 +1,24 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "wp-travel-blocks/trip-book-count",
+  "version": "0.1.0",
+  "title": "Trip Bookings Count",
+  "category": "wp-travel-single-trip-blocks",
+  "description": "Shows a Trip Bookings Count.",
+  "example": {},
+  "supports": {
+    "html": false
+  },
+  "textdomain": "trip-book-count",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "viewScript": "file:./view.js",
+  "attributes": {
+    "textColor": {
+      "type": "string",
+      "default": ""
+    }
+  }
+}

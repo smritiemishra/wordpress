@@ -1,0 +1,1 @@
+{"version":3,"file":"trip-book-count/style-index.css","mappings":";;;AAAA;EACI;EACA;AACJ,C","sources":["webpack://wp-travel-blocks/./src/trip-book-count/style.scss"],"sourcesContent":[".wp-travel-booking-count-block{\r\n    margin: 0px;\r\n    font-size: 16px;\r\n}"],"names":[],"sourceRoot":""}

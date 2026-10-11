@@ -1,0 +1,1680 @@
+[2026-10-10 00:01:04]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [previous_session] => 64a3da20120646418a13a2816eb51f4d
+    [new_session] => 272e8130335b51ca654a7902c2ff7b62
+)
+
+
+[2026-10-10 00:01:04]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [session_id] => 272e8130335b51ca654a7902c2ff7b62
+    [option_key] => _wp_session_272e8130335b51ca654a7902c2ff7b62
+)
+
+
+[2026-10-10 00:07:03]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [previous_session] => 272e8130335b51ca654a7902c2ff7b62
+    [new_session] => 53cd2e43831949ccb228177e57b06e0f
+)
+
+
+[2026-10-10 00:07:03]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [session_id] => 53cd2e43831949ccb228177e57b06e0f
+    [option_key] => _wp_session_53cd2e43831949ccb228177e57b06e0f
+)
+
+
+[2026-10-10 00:33:05]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [previous_session] => 53cd2e43831949ccb228177e57b06e0f
+    [new_session] => 9dae4f76eb733a78f0d89562155f9947
+)
+
+
+[2026-10-10 00:33:05]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [session_id] => 9dae4f76eb733a78f0d89562155f9947
+    [option_key] => _wp_session_9dae4f76eb733a78f0d89562155f9947
+)
+
+
+[2026-10-10 01:07:14]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [previous_session] => 9dae4f76eb733a78f0d89562155f9947
+    [new_session] => 3783660d247a19b1e9da6f6d366c351a
+)
+
+
+[2026-10-10 01:07:14]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [session_id] => 3783660d247a19b1e9da6f6d366c351a
+    [option_key] => _wp_session_3783660d247a19b1e9da6f6d366c351a
+)
+
+
+[2026-10-10 01:09:15]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [previous_session] => 3783660d247a19b1e9da6f6d366c351a
+    [new_session] => f00b5df366d98c983819c41afb7fdc8e
+)
+
+
+[2026-10-10 01:09:15]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [session_id] => f00b5df366d98c983819c41afb7fdc8e
+    [option_key] => _wp_session_f00b5df366d98c983819c41afb7fdc8e
+)
+
+
+[2026-10-10 01:44:55]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [previous_session] => f00b5df366d98c983819c41afb7fdc8e
+    [new_session] => 94013e3f39451b36775df788f4d27373
+)
+
+
+[2026-10-10 01:44:55]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [session_id] => 94013e3f39451b36775df788f4d27373
+    [option_key] => _wp_session_94013e3f39451b36775df788f4d27373
+)
+
+
+[2026-10-10 01:44:58]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [previous_session] => 94013e3f39451b36775df788f4d27373
+    [new_session] => 21319a673905e1b70dd831b651faa258
+)
+
+
+[2026-10-10 01:44:58]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [session_id] => 21319a673905e1b70dd831b651faa258
+    [option_key] => _wp_session_21319a673905e1b70dd831b651faa258
+)
+
+
+[2026-10-10 02:16:02]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [previous_session] => 21319a673905e1b70dd831b651faa258
+    [new_session] => 526afc6d17f88273a7e08c1d5b235319
+)
+
+
+[2026-10-10 02:16:02]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [session_id] => 526afc6d17f88273a7e08c1d5b235319
+    [option_key] => _wp_session_526afc6d17f88273a7e08c1d5b235319
+)
+
+
+[2026-10-10 02:32:34]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [previous_session] => 526afc6d17f88273a7e08c1d5b235319
+    [new_session] => d89224be26afe6f7382552b13b88af18
+)
+
+
+[2026-10-10 02:32:34]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [session_id] => d89224be26afe6f7382552b13b88af18
+    [option_key] => _wp_session_d89224be26afe6f7382552b13b88af18
+)
+
+
+[2026-10-10 02:37:27]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [previous_session] => d89224be26afe6f7382552b13b88af18
+    [new_session] => 1eb5939168afebe4c669c877695b2b94
+)
+
+
+[2026-10-10 02:37:27]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [session_id] => 1eb5939168afebe4c669c877695b2b94
+    [option_key] => _wp_session_1eb5939168afebe4c669c877695b2b94
+)
+
+
+[2026-10-10 03:07:28]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [previous_session] => 1eb5939168afebe4c669c877695b2b94
+    [new_session] => 441179b1a208de404ae22076246c8910
+)
+
+
+[2026-10-10 03:07:28]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [session_id] => 441179b1a208de404ae22076246c8910
+    [option_key] => _wp_session_441179b1a208de404ae22076246c8910
+)
+
+
+[2026-10-10 07:16:22]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [previous_session] => 441179b1a208de404ae22076246c8910
+    [new_session] => 4143cd84af9a27d2c507ee64847e2d37
+)
+
+
+[2026-10-10 07:16:22]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [session_id] => 4143cd84af9a27d2c507ee64847e2d37
+    [option_key] => _wp_session_4143cd84af9a27d2c507ee64847e2d37
+)
+
+
+[2026-10-10 07:32:38]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [previous_session] => 4143cd84af9a27d2c507ee64847e2d37
+    [new_session] => c57afb2b9cb8b92401a39096f70d37b3
+)
+
+
+[2026-10-10 07:32:38]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [session_id] => c57afb2b9cb8b92401a39096f70d37b3
+    [option_key] => _wp_session_c57afb2b9cb8b92401a39096f70d37b3
+)
+
+
+[2026-10-10 07:50:25]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WP-URLDetails/7.1.2 (+http://localhost/travelwithus/wordpress)
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WP-URLDetails/7.1.2 (+http://localhost/travelwithus/wordpress)
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [previous_session] => c57afb2b9cb8b92401a39096f70d37b3
+    [new_session] => 7b65fa6302fd48979b1ca1ca36bef27d
+)
+
+
+[2026-10-10 07:50:25]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WP-URLDetails/7.1.2 (+http://localhost/travelwithus/wordpress)
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WP-URLDetails/7.1.2 (+http://localhost/travelwithus/wordpress)
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [session_id] => 7b65fa6302fd48979b1ca1ca36bef27d
+    [option_key] => _wp_session_7b65fa6302fd48979b1ca1ca36bef27d
+)
+
+
+[2026-10-10 07:50:43]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WP-URLDetails/7.1.2 (+http://localhost/travelwithus/wordpress)
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WP-URLDetails/7.1.2 (+http://localhost/travelwithus/wordpress)
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [previous_session] => 7b65fa6302fd48979b1ca1ca36bef27d
+    [new_session] => 5bab50e4d50a8dba0ff935d1c267f2db
+)
+
+
+[2026-10-10 07:50:43]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WP-URLDetails/7.1.2 (+http://localhost/travelwithus/wordpress)
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WP-URLDetails/7.1.2 (+http://localhost/travelwithus/wordpress)
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [session_id] => 5bab50e4d50a8dba0ff935d1c267f2db
+    [option_key] => _wp_session_5bab50e4d50a8dba0ff935d1c267f2db
+)
+
+
+[2026-10-10 08:07:37]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [previous_session] => 5bab50e4d50a8dba0ff935d1c267f2db
+    [new_session] => 244290bf3340059e56fa000111deb985
+)
+
+
+[2026-10-10 08:07:37]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [session_id] => 244290bf3340059e56fa000111deb985
+    [option_key] => _wp_session_244290bf3340059e56fa000111deb985
+)
+
+
+[2026-10-10 08:32:37]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [previous_session] => 244290bf3340059e56fa000111deb985
+    [new_session] => 1b63b24ad7a696ff25241fabec4e41b7
+)
+
+
+[2026-10-10 08:32:37]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [session_id] => 1b63b24ad7a696ff25241fabec4e41b7
+    [option_key] => _wp_session_1b63b24ad7a696ff25241fabec4e41b7
+)
+
+
+[2026-10-10 09:07:38]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [previous_session] => 1b63b24ad7a696ff25241fabec4e41b7
+    [new_session] => a39d3f002563e1c77232e088db04eba1
+)
+
+
+[2026-10-10 09:07:38]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [session_id] => a39d3f002563e1c77232e088db04eba1
+    [option_key] => _wp_session_a39d3f002563e1c77232e088db04eba1
+)
+
+
+[2026-10-10 09:32:38]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [previous_session] => a39d3f002563e1c77232e088db04eba1
+    [new_session] => 9b3893ea2dd1f97539de4245b3d703e0
+)
+
+
+[2026-10-10 09:32:38]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [session_id] => 9b3893ea2dd1f97539de4245b3d703e0
+    [option_key] => _wp_session_9b3893ea2dd1f97539de4245b3d703e0
+)
+
+
+[2026-10-10 09:38:18]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WP-URLDetails/7.1.2 (+http://localhost/travelwithus/wordpress)
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WP-URLDetails/7.1.2 (+http://localhost/travelwithus/wordpress)
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [previous_session] => 9b3893ea2dd1f97539de4245b3d703e0
+    [new_session] => 82aa8b38cb816e6293f8d36211bb05a3
+)
+
+
+[2026-10-10 09:38:18]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WP-URLDetails/7.1.2 (+http://localhost/travelwithus/wordpress)
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WP-URLDetails/7.1.2 (+http://localhost/travelwithus/wordpress)
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [session_id] => 82aa8b38cb816e6293f8d36211bb05a3
+    [option_key] => _wp_session_82aa8b38cb816e6293f8d36211bb05a3
+)
+
+
+[2026-10-10 09:39:07]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WP-URLDetails/7.1.2 (+http://localhost/travelwithus/wordpress)
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WP-URLDetails/7.1.2 (+http://localhost/travelwithus/wordpress)
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [previous_session] => 82aa8b38cb816e6293f8d36211bb05a3
+    [new_session] => ad74315eb757be743f62f4fa13c450a5
+)
+
+
+[2026-10-10 09:39:07]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WP-URLDetails/7.1.2 (+http://localhost/travelwithus/wordpress)
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WP-URLDetails/7.1.2 (+http://localhost/travelwithus/wordpress)
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [session_id] => ad74315eb757be743f62f4fa13c450a5
+    [option_key] => _wp_session_ad74315eb757be743f62f4fa13c450a5
+)
+
+
+[2026-10-10 09:39:26]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WP-URLDetails/7.1.2 (+http://localhost/travelwithus/wordpress)
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WP-URLDetails/7.1.2 (+http://localhost/travelwithus/wordpress)
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [previous_session] => ad74315eb757be743f62f4fa13c450a5
+    [new_session] => 4f31b25875f613503b97a58cad71e752
+)
+
+
+[2026-10-10 09:39:26]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WP-URLDetails/7.1.2 (+http://localhost/travelwithus/wordpress)
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WP-URLDetails/7.1.2 (+http://localhost/travelwithus/wordpress)
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [session_id] => 4f31b25875f613503b97a58cad71e752
+    [option_key] => _wp_session_4f31b25875f613503b97a58cad71e752
+)
+
+
+[2026-10-10 09:39:38]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WP-URLDetails/7.1.2 (+http://localhost/travelwithus/wordpress)
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WP-URLDetails/7.1.2 (+http://localhost/travelwithus/wordpress)
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [previous_session] => 4f31b25875f613503b97a58cad71e752
+    [new_session] => 0699c8c7b62126e0bd130c1401013d34
+)
+
+
+[2026-10-10 09:39:38]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WP-URLDetails/7.1.2 (+http://localhost/travelwithus/wordpress)
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WP-URLDetails/7.1.2 (+http://localhost/travelwithus/wordpress)
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [session_id] => 0699c8c7b62126e0bd130c1401013d34
+    [option_key] => _wp_session_0699c8c7b62126e0bd130c1401013d34
+)
+
+
+[2026-10-10 09:39:46]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WP-URLDetails/7.1.2 (+http://localhost/travelwithus/wordpress)
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WP-URLDetails/7.1.2 (+http://localhost/travelwithus/wordpress)
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [previous_session] => 0699c8c7b62126e0bd130c1401013d34
+    [new_session] => 4a537d5b6e82797c9c31a3dbd86e353c
+)
+
+
+[2026-10-10 09:39:46]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WP-URLDetails/7.1.2 (+http://localhost/travelwithus/wordpress)
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WP-URLDetails/7.1.2 (+http://localhost/travelwithus/wordpress)
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [session_id] => 4a537d5b6e82797c9c31a3dbd86e353c
+    [option_key] => _wp_session_4a537d5b6e82797c9c31a3dbd86e353c
+)
+
+
+[2026-10-10 09:43:13]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WP-URLDetails/7.1.2 (+http://localhost/travelwithus/wordpress)
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WP-URLDetails/7.1.2 (+http://localhost/travelwithus/wordpress)
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [previous_session] => 4a537d5b6e82797c9c31a3dbd86e353c
+    [new_session] => 78e0d939f46c3bac1921324ce486561e
+)
+
+
+[2026-10-10 09:43:13]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WP-URLDetails/7.1.2 (+http://localhost/travelwithus/wordpress)
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WP-URLDetails/7.1.2 (+http://localhost/travelwithus/wordpress)
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [session_id] => 78e0d939f46c3bac1921324ce486561e
+    [option_key] => _wp_session_78e0d939f46c3bac1921324ce486561e
+)
+
+
+[2026-10-10 10:07:02]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [previous_session] => 78e0d939f46c3bac1921324ce486561e
+    [new_session] => 2a4a314f34d57ee044ee075f82aecd9d
+)
+
+
+[2026-10-10 10:07:02]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [session_id] => 2a4a314f34d57ee044ee075f82aecd9d
+    [option_key] => _wp_session_2a4a314f34d57ee044ee075f82aecd9d
+)
+
+
+[2026-10-10 14:09:01]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Chrome
+            [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+        )
+
+    [user_id] => 1
+    [user_email] => admin@gmail.com
+)
+
+DATA INFO: Array
+(
+    [previous_session] => 2a4a314f34d57ee044ee075f82aecd9d
+    [new_session] => 462e92ddd95912baa83ba3c1f23aeb45
+)
+
+
+[2026-10-10 14:09:01]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Chrome
+            [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+        )
+
+    [user_id] => 1
+    [user_email] => admin@gmail.com
+)
+
+DATA INFO: Array
+(
+    [session_id] => 462e92ddd95912baa83ba3c1f23aeb45
+    [option_key] => _wp_session_462e92ddd95912baa83ba3c1f23aeb45
+)
+
+
+[2026-10-10 14:09:01]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Chrome
+            [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+        )
+
+    [user_id] => 1
+    [user_email] => admin@gmail.com
+)
+
+DATA INFO: Array
+(
+    [previous_session] => 462e92ddd95912baa83ba3c1f23aeb45
+    [new_session] => 76cb00ea07dceb0df8771c3f52a434e6
+)
+
+
+[2026-10-10 14:09:01]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Chrome
+            [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+        )
+
+    [user_id] => 1
+    [user_email] => admin@gmail.com
+)
+
+DATA INFO: Array
+(
+    [previous_session] => 462e92ddd95912baa83ba3c1f23aeb45
+    [new_session] => 92408ec0419f2aa7380445b8fc90415b
+)
+
+
+[2026-10-10 14:09:01]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Chrome
+            [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+        )
+
+    [user_id] => 1
+    [user_email] => admin@gmail.com
+)
+
+DATA INFO: Array
+(
+    [previous_session] => 462e92ddd95912baa83ba3c1f23aeb45
+    [new_session] => cbd88c64b1fbd2394bdda4267e98a4be
+)
+
+
+[2026-10-10 14:09:01]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Chrome
+            [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+        )
+
+    [user_id] => 1
+    [user_email] => admin@gmail.com
+)
+
+DATA INFO: Array
+(
+    [session_id] => 92408ec0419f2aa7380445b8fc90415b
+    [option_key] => _wp_session_92408ec0419f2aa7380445b8fc90415b
+)
+
+
+[2026-10-10 14:09:01]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Chrome
+            [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+        )
+
+    [user_id] => 1
+    [user_email] => admin@gmail.com
+)
+
+DATA INFO: Array
+(
+    [session_id] => 76cb00ea07dceb0df8771c3f52a434e6
+    [option_key] => _wp_session_76cb00ea07dceb0df8771c3f52a434e6
+)
+
+
+[2026-10-10 14:09:01]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Chrome
+            [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+        )
+
+    [user_id] => 1
+    [user_email] => admin@gmail.com
+)
+
+DATA INFO: Array
+(
+    [session_id] => cbd88c64b1fbd2394bdda4267e98a4be
+    [option_key] => _wp_session_cbd88c64b1fbd2394bdda4267e98a4be
+)
+
+
+[2026-10-10 14:09:06]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [previous_session] => cbd88c64b1fbd2394bdda4267e98a4be
+    [new_session] => d27bc1a9ec79246a5b12e58eb6384263
+)
+
+
+[2026-10-10 14:09:06]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [session_id] => d27bc1a9ec79246a5b12e58eb6384263
+    [option_key] => _wp_session_d27bc1a9ec79246a5b12e58eb6384263
+)
+
+
+[2026-10-10 14:33:23]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [previous_session] => d27bc1a9ec79246a5b12e58eb6384263
+    [new_session] => 0f5a70878567ea1a80432bfc8f1be9ef
+)
+
+
+[2026-10-10 14:33:23]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [session_id] => 0f5a70878567ea1a80432bfc8f1be9ef
+    [option_key] => _wp_session_0f5a70878567ea1a80432bfc8f1be9ef
+)
+
+
+[2026-10-10 14:37:03]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [previous_session] => 0f5a70878567ea1a80432bfc8f1be9ef
+    [new_session] => a849f596cf9a2b0f67b547f077f483bb
+)
+
+
+[2026-10-10 14:37:03]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [session_id] => a849f596cf9a2b0f67b547f077f483bb
+    [option_key] => _wp_session_a849f596cf9a2b0f67b547f077f483bb
+)
+
+
+[2026-10-10 15:07:07]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [previous_session] => a849f596cf9a2b0f67b547f077f483bb
+    [new_session] => c6df10ccdd28f3c810339db17e5dff2d
+)
+
+
+[2026-10-10 15:07:07]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [session_id] => c6df10ccdd28f3c810339db17e5dff2d
+    [option_key] => _wp_session_c6df10ccdd28f3c810339db17e5dff2d
+)
+
+
+[2026-10-10 15:32:41]
+MESSAGE: POTENTIAL SESSION RESET
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [previous_session] => c6df10ccdd28f3c810339db17e5dff2d
+    [new_session] => c9b7771c24213413cab185892302be81
+)
+
+
+[2026-10-10 15:32:41]
+MESSAGE: NEW SESSION CREATED
+DEVICE & USER INFO: Array
+(
+    [ip] => ::1
+    [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+    [device_type] => Desktop
+    [browser] => Array
+        (
+            [browser] => Unknown
+            [user_agent] => WordPress/7.1.2; http://localhost/travelwithus/wordpress
+        )
+
+    [user_id] => 0
+    [user_email] => 
+)
+
+DATA INFO: Array
+(
+    [session_id] => c9b7771c24213413cab185892302be81
+    [option_key] => _wp_session_c9b7771c24213413cab185892302be81
+)
+
+

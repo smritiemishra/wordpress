@@ -1,0 +1,1 @@
+{"version":3,"file":"trip-guide-list/style-index.css","mappings":";;;AAAA;EACI;EACA;AACJ,C","sources":["webpack://wp-travel-blocks/./src/trip-guide-list/style.scss"],"sourcesContent":[".wptravel-tg-list-view-row.block > * {\r\n    flex: 0 0 32%;\r\n    box-sizing: border-box;\r\n}"],"names":[],"sourceRoot":""}

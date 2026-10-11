@@ -1,0 +1,40 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "wp-travel-blocks/trip-date-countdown",
+  "version": "0.1.0",
+  "title": "Tour Date CountDown",
+  "category": "wp-travel-single-trip-blocks",
+  "description": "Shows a next tour date countdown.",
+  "example": {},
+  "supports": {
+    "html": false
+  },
+  "textdomain": "trip-date-countdown",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "viewScript": "file:./view.js",
+  "attributes": {
+    "enableTourCountDown": {
+      "type": "boolean",
+      "default": false
+    },
+    "labelTextColor": {
+      "type": "string",
+      "default": ""
+    },
+    "counterBgColor": {
+      "type": "string",
+      "default": ""
+    },
+    "counterTextColor": {
+      "type": "string",
+      "default": ""
+    },
+    "tourCountDownLabel": {
+      "type": "string",
+      "default": "Next Tour Starts In"
+    }
+  }
+}
